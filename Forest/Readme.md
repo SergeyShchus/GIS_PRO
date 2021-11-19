@@ -16,4 +16,4 @@ Resourses
  - [Background layer](https://services.arcgis.com/nGt4QxSblgDfeJn9/arcgis/rest/services/GlobalBackground/FeatureServer).
 
 
- [Idea:](https://www.gisforscience.com).
+ Idea: [GIS for Science: Applying Mapping and Spatial Analytics](https://www.gisforscience.com).
