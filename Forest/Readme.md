@@ -1,6 +1,8 @@
-##forest
+## forest
 
 ![alt text](https://github.com/SergeyShchus/GIS_PRO/blob/main/Forest/Layout3.jpg?raw=true)
+
+![alt text](https://github.com/SergeyShchus/GIS_PRO/blob/main/Forest/Layout4.jpg?raw=true)
 
 GIS Pro (Esri)
 
