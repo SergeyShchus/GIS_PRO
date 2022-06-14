@@ -1,4 +1,4 @@
-## Beautiful ocean
+## Power Line Classification model
 
 ![alt text](https://github.com/SergeyShchus/GIS_PRO/blob/main/Power%20Line%20Classification%20model/img/power%20lines-5.png?raw=true)
 
