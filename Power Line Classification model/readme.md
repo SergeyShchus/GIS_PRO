@@ -4,10 +4,12 @@
 
 GIS Pro (Esri)
 
+![alt text](https://github.com/SergeyShchus/GIS_PRO/blob/main/Power%20Line%20Classification%20model/img/power%20lines-4.png?raw=true)
+
 Resourses
 
 
- - [Point data (LIDAR](https://www.kaggle.com/datasets/sergiishchus/power-lines)
+ - [Point data (LIDAR)](https://www.kaggle.com/datasets/sergiishchus/power-lines)
  - [Detailed description of the process](https://learn.arcgis.com/en/projects/classify-powerlines-from-lidar-point-clouds/)
 
 
