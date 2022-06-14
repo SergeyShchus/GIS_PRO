@@ -1,15 +1,14 @@
 ## Beautiful ocean
 
-![alt text](https://github.com/SergeyShchus/GIS_PRO/blob/main/Beautiful%20ocean/poster/poster.jpg?raw=true)
+![alt text](https://github.com/SergeyShchus/GIS_PRO/blob/main/Power%20Line%20Classification%20model/img/power%20lines-5.png?raw=true)
 
 GIS Pro (Esri)
 
 Resourses
 
 
- - [point data (LIDAR](https://www.naturalearthdata.com/http/www.naturalearthdata.com/download/50m/physical/ne_50m_ocean.zip)
- - [Vector layer of continents for an overview map](https://www.naturalearthdata.com/http/www.naturalearthdata.com/download/50m/physical/ne_50m_land.zip)
- - [Texture for the roughness of the ocean](https://adventuresinmapping.files.wordpress.com/2021/11/posterprint.jpg).
+ - [Point data (LIDAR](https://www.kaggle.com/datasets/sergiishchus/power-lines)
+ - [Detailed description of the process](https://learn.arcgis.com/en/projects/classify-powerlines-from-lidar-point-clouds/)
 
 
 
