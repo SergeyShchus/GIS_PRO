@@ -31,3 +31,5 @@ for folder in folders:
             out_name = arcpy.Describe(fc).baseName    
             arcpy.FeatureClassToFeatureClass_conversion (fc, output_path, out_name)
 ```
+
+![result](https://github.com/SergeyShchus/GIS_PRO/blob/main/Notebook/shp-data(folders)-to-database_GisPro/result.PNG?raw=true)
