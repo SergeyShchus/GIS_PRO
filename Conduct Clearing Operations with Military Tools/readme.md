@@ -22,6 +22,10 @@ ATTP 3-06.11 (Загальнозбройні операції в міській 
 
 ![visible](https://github.com/SergeyShchus/GIS_PRO/blob/main/Conduct%20Clearing%20Operations%20with%20Military%20Tools/image/visibility.jpg?raw=true)
 
+--------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+![visible_point](https://github.com/SergeyShchus/GIS_PRO/blob/main/Conduct%20Clearing%20Operations%20with%20Military%20Tools/image/visibility_points.jpg?raw=true)
 
 ### Create basic 3D buildings from an nDSM and building footprints
 
